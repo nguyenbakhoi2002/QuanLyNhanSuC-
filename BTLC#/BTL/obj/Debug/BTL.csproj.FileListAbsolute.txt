@@ -1,0 +1,504 @@
+D:\Visual Studio Code\C#\BTL\BTL\bin\Debug\BTL.exe.config
+D:\Visual Studio Code\C#\BTL\BTL\bin\Debug\BTL.exe
+D:\Visual Studio Code\C#\BTL\BTL\bin\Debug\BTL.pdb
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmBangCong.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmBoPhan.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmCheDo.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmCoBan.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmDangKy.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmDangNhap.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmDoiMatKhau.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmHoSoThuViec.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmLuong.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmMain.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmPhongBan.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmThongTinCaNhan.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmTienLuong.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmTimKiem.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmTroGiup.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.exe
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\BTL.exe.config
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\BTL.exe
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\BTL.pdb
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmBangCong.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmBoPhan.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmCheDo.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmCoBan.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmDangKy.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmDangNhap.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmDoiMatKhau.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmHoSoThuViec.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmLuong.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmMain.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmPhongBan.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmThongTinCaNhan.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmTimKiem.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmTroGiup.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.exe
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.pdb
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\bin\Debug\BTL.exe.config
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\bin\Debug\BTL.exe
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\bin\Debug\BTL.pdb
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmBangCong.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmBoPhan.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmCheDo.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmCoBan.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmDangKy.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmDangNhap.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmDoiMatKhau.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmHoSoThuViec.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmLuong.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmMain.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmPhongBan.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmThongTinCaNhan.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmTienLuong.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmTimKiem.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.frmTroGiup.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.exe
+C:\Users\quoc0\Downloads\Documents\Lap trinh truc quan\BTLC#\BTL\obj\Debug\BTL.pdb
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\bin\Debug\BTL.exe.config
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\bin\Debug\BTL.exe
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\bin\Debug\BTL.pdb
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmBangCong.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmBoPhan.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmCheDo.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmCoBan.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmDangKy.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmDangNhap.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmDoiMatKhau.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmHoSoThuViec.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmLuong.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmMain.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmPhongBan.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmThongTinCaNhan.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmTienLuong.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmTimKiem.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.frmTroGiup.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.exe
+C:\Users\quoc0\Downloads\Documents\BTLC#\BTL\obj\Debug\BTL.pdb
+D:\c#\BTLC#\BTL\bin\Debug\BTL.exe.config
+D:\c#\BTLC#\BTL\bin\Debug\BTL.exe
+D:\c#\BTLC#\BTL\bin\Debug\BTL.pdb
+D:\c#\BTLC#\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\c#\BTLC#\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmBangCong.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmBoPhan.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmCheDo.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmCoBan.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmDangKy.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmDangNhap.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmDoiMatKhau.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmHoSoThuViec.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmLuong.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmMain.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmPhongBan.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmThongTinCaNhan.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmTienLuong.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmTimKiem.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.frmTroGiup.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\c#\BTLC#\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\c#\BTLC#\BTL\obj\Debug\BTL.exe
+D:\c#\BTLC#\BTL\obj\Debug\BTL.pdb
+D:\c#\BTLC#\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\c#\BTLC#\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\c#\BTLC#\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\c#\BTLC#\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\c#\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\c#\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\c#\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\c#\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\c#\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\c#\BTLC#\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\c#\BTLC#\BTL\bin\Debug\EnvDTE.dll
+D:\c#\BTLC#\BTL\bin\Debug\stdole.dll
+D:\c#\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\BTLC#\BTL\obj\Debug\BTL.BCNhanVien.resources
+D:\c#\BTLC#\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\c#\BTLC#\BTL\bin\Debug\EntityFramework.dll
+D:\c#\BTLC#\BTL\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\BTLC#\BTL\bin\Debug\EntityFramework.xml
+D:\c#\BTLC#\BTL\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\BTLC#\BTL\bin\Debug\rptNhanVien.rdlc
+D:\c#\BTLC#\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\c#\BTLC#\BTL\obj\Debug\BTL.TrangChu.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\rptNhanVien.rdlc
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\BTL.exe.config
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\BTL.exe
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\BTL.pdb
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\EntityFramework.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\EnvDTE.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\stdole.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\EntityFramework.xml
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.BCNhanVien.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmBangCong.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmBoPhan.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmCheDo.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmCoBan.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmDangKy.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmDangNhap.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmDoiMatKhau.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmHoSoThuViec.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmLuong.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmMain.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmPhongBan.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmThongTinCaNhan.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmTienLuong.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmTimKiem.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmTroGiup.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.TrangChu.resources
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.exe
+C:\Users\GL531\Desktop\BTLC #\BTLC#\BTL\obj\Debug\BTL.pdb
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\rptNhanVien.rdlc
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\BTL.exe.config
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\BTL.exe
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\BTL.pdb
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\EntityFramework.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\EnvDTE.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\stdole.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\EntityFramework.xml
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.BCNhanVien.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmBangCong.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmBoPhan.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmCheDo.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmCoBan.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmDangKy.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmDangNhap.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmDoiMatKhau.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmHoSoThuViec.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmLuong.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmMain.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmPhongBan.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmThongTinCaNhan.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmTienLuong.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmTimKiem.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.frmTroGiup.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.TrangChu.resources
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.exe
+C:\Users\quoc0\Downloads\Compressed\BTLC #\BTLC#\BTL\obj\Debug\BTL.pdb
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\rptNhanVien.rdlc
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\BTL.exe.config
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\BTL.exe
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\BTL.pdb
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\EnvDTE.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\stdole.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.BCNhanVien.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmBangCong.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmBoPhan.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmCheDo.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmCoBan.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmDangKy.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmDangNhap.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmDoiMatKhau.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmHoSoThuViec.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmLuong.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmMain.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmPhongBan.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmThongTinCaNhan.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmTienLuong.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmTimKiem.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.frmTroGiup.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.TrangChu.resources
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.exe
+C:\Users\Dell\Downloads\BTLC#\BTL\obj\Debug\BTL.pdb
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\rptNhanVien.rdlc
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\EnvDTE.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\stdole.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.BCNhanVien.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.TrangChu.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.csproj.CopyComplete
